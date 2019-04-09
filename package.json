@@ -1,0 +1,25 @@
+{
+  "name": "screenbook.ng",
+  "version": "1.0.0",
+  "description": "web application for screenbook",
+  "author": "johnwealth",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "active": "^1.0.4",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "cross-env": "^5.2.0",
+    "jquery": "^3.3.1",
+    "nuxt": "^2.4.0",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
